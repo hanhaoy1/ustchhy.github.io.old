@@ -12,6 +12,5 @@ hhhh
 ## This is a test
 test1
 ```python test
-import sys
 print('Hello World') 
 ```
