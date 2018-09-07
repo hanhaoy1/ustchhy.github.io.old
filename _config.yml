@@ -80,3 +80,6 @@ deploy:
   type: git
   repository: https://github.com/ustchhy/ustchhy.github.io.git
   branch: master
+
+include:
+  - .nojekyll
